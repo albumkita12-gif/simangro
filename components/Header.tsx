@@ -23,6 +23,7 @@ export default function Header() {
     const navLinks = [
         { href: '/', label: 'Beranda' },
         { href: '/jenis', label: 'Jenis Mangrove' },
+        { href: '/peta-aksi', label: 'Peta Aksi Mangrove' },
         { href: '/monitoring', label: 'Monitoring & Evaluasi' },
         { href: '/quiz', label: 'Quiz' },
         { href: '/regulasi', label: 'Regulasi' },
